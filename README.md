@@ -63,7 +63,7 @@ The [versed cosine][versed-cosine] is defined as
 ## Usage
 
 ```javascript
-import vercos from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-vercos@esm/index.mjs';
+import vercos from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-vercos@v0.1.0-esm/index.mjs';
 ```
 
 #### vercos( x )
@@ -99,7 +99,7 @@ v = vercos( -3.141592653589793/6.0 );
 
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@esm/index.mjs';
 import TWO_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-two-pi@esm/index.mjs';
-import vercos from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-vercos@esm/index.mjs';
+import vercos from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-vercos@v0.1.0-esm/index.mjs';
 
 var x = linspace( 0.0, TWO_PI, 100 );
 
